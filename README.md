@@ -1,5 +1,7 @@
 # WorkShop-Build REST API with Laravel
 
-You will find the documentation and steps in this link :
+## You will find the documentation and steps in this link :
 
 https://dev.to/aymanebenhima/build-rest-api-with-laravel-44cl
+
+## For testing the code we use Postman !
